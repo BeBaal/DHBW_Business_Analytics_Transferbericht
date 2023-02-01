@@ -10,12 +10,12 @@
 .knime-tooltip-caption, .knime-tooltip-key, .knime-tooltip-value { color: black; fill: black; font-size: 12px; }
 .knime-tooltip-key { font-weight: normal; }
 .knime-tooltip-caption, .knime-tooltip-value { font-weight: bold; }</style><g transform="translate(70,10)">
-        <rect x="-70" fill="rgb(255,255,255)" width="800" y="-10" height="600"
-              fill-opacity="1.0"/>
-        <rect fill="rgb(230,230,230)" width="710" height="505"
-              fill-opacity="1.0"/>
+        <rect x="-70" fill="rgb(255,255,255)" width="800" fill-opacity="1.0"
+              height="600" y="-10"/>
+        <rect fill="rgb(230,230,230)" width="710" fill-opacity="1.0"
+              height="505"/>
         <g class="x axis knime-x knime-axis" transform="translate(0,505)">
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -24,7 +24,7 @@
                     0.0
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(71,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -33,7 +33,7 @@
                     0.1
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(142,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -42,7 +42,7 @@
                     0.2
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(213,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -51,7 +51,7 @@
                     0.3
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(284,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -60,7 +60,7 @@
                     0.4
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(355,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -69,7 +69,7 @@
                     0.5
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(426,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -78,7 +78,7 @@
                     0.6
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(496.99999999999994,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -87,7 +87,7 @@
                     0.7
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(568,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -96,7 +96,7 @@
                     0.8
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(639,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -105,7 +105,7 @@
                     0.9
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(710,0)">
                 <line y2="-505" class="knime-tick-line" x2="0"
                       stroke="rgb(255,255,255)"/>
@@ -118,7 +118,7 @@
                   stroke="rgb(255,255,255)"/>
         </g>
         <g class="y axis knime-y knime-axis">
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,505)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -127,7 +127,7 @@
                     0.0
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,454.5)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -136,7 +136,7 @@
                     0.1
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,404)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -145,7 +145,7 @@
                     0.2
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,353.5)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -154,7 +154,7 @@
                     0.3
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,303)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -163,7 +163,7 @@
                     0.4
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,252.5)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -172,7 +172,7 @@
                     0.5
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,202)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -181,7 +181,7 @@
                     0.6
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,151.5)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -190,7 +190,7 @@
                     0.7
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,101)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -199,7 +199,7 @@
                     0.8
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,50.5)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -208,7 +208,7 @@
                     0.9
                 </text>
             </g>
-            <g style="opacity: 1;" class="tick major knime-tick"
+            <g class="tick major knime-tick" style="opacity: 1;"
                transform="translate(0,0)">
                 <line y2="0" class="knime-tick-line" x2="710"
                       stroke="rgb(255,255,255)"/>
@@ -235,23 +235,23 @@
                 P (Attrition=Yes)_random (0.86)
             </text>
         </g>
-        <path style="stroke: rgb(31, 119, 180); fill: none; stroke-width: 2;"
-              class="line"
+        <path class="line"
+              style="stroke: rgb(31, 119, 180); fill: none; stroke-width: 2;"
               d="M0,505L0,494.25531914893617L0,483.51063829787233L0,472.7659574468085L2.874493927125506,462.02127659574467L2.874493927125506,451.27659574468083L2.874493927125506,440.531914893617L2.874493927125506,429.7872340425532L2.874493927125506,419.04255319148933L2.874493927125506,408.29787234042556L2.874493927125506,397.55319148936167L2.874493927125506,386.8085106382979L2.874493927125506,376.06382978723406L2.874493927125506,365.3191489361702L5.748987854251012,365.3191489361702L5.748987854251012,354.5744680851064L8.623481781376519,354.5744680851064L8.623481781376519,343.82978723404256L11.497975708502024,343.82978723404256L11.497975708502024,333.0851063829787L11.497975708502024,322.3404255319149L14.37246963562753,322.3404255319149L17.246963562753038,322.3404255319149L20.121457489878544,322.3404255319149L20.121457489878544,311.59574468085106L20.121457489878544,300.8510638297872L20.121457489878544,290.1063829787234L20.121457489878544,279.36170212765956L22.995951417004047,279.36170212765956L22.995951417004047,268.6170212765958L22.995951417004047,257.8723404255319L25.870445344129553,257.8723404255319L25.870445344129553,247.1276595744681L25.870445344129553,236.38297872340428L28.74493927125506,236.38297872340428L31.619433198380566,236.38297872340428L34.493927125506076,236.38297872340428L37.368421052631575,236.38297872340428L40.24291497975709,236.38297872340428L43.11740890688259,236.38297872340428L43.11740890688259,225.6382978723404L45.991902834008094,225.6382978723404L45.991902834008094,214.89361702127655L45.991902834008094,204.14893617021278L48.8663967611336,204.14893617021278L48.8663967611336,193.40425531914894L51.74089068825911,193.40425531914894L54.61538461538462,193.40425531914894L57.48987854251012,193.40425531914894L63.23886639676113,193.40425531914894L63.23886639676113,182.6595744680851L66.11336032388664,182.6595744680851L71.86234817813765,182.6595744680851L74.73684210526315,182.6595744680851L77.61133603238866,182.6595744680851L80.48582995951418,182.6595744680851L83.36032388663968,182.6595744680851L86.23481781376518,182.6595744680851L91.98380566801619,182.6595744680851L97.7327935222672,182.6595744680851L103.48178137651821,182.6595744680851L103.48178137651821,171.91489361702128L106.35627530364373,171.91489361702128L109.23076923076924,171.91489361702128L112.10526315789473,171.91489361702128L114.97975708502024,171.91489361702128L117.85425101214575,171.91489361702128L129.35222672064776,171.91489361702128L132.22672064777328,171.91489361702128L137.9757085020243,171.91489361702128L137.9757085020243,161.17021276595744L140.85020242914982,161.17021276595744L143.7246963562753,161.17021276595744L149.4736842105263,161.17021276595744L149.4736842105263,150.4255319148936L149.4736842105263,139.68085106382978L152.34817813765181,139.68085106382978L152.34817813765181,128.936170212766L152.34817813765181,107.44680851063828L155.22267206477733,107.44680851063828L158.09716599190284,107.44680851063828L160.97165991902835,107.44680851063828L163.84615384615387,107.44680851063828L172.46963562753035,107.44680851063828L175.34412955465586,107.44680851063828L181.0931174089069,96.7021276595745L186.8421052631579,96.7021276595745L189.7165991902834,96.7021276595745L192.59109311740892,96.7021276595745L195.4655870445344,96.7021276595745L198.34008097165994,96.7021276595745L201.21457489878543,96.7021276595745L204.0890688259109,96.7021276595745L212.71255060728745,96.7021276595745L218.46153846153848,96.7021276595745L221.33603238866397,85.95744680851067L224.21052631578945,85.95744680851067L227.085020242915,85.95744680851067L229.95951417004048,85.95744680851067L232.834008097166,85.95744680851067L241.4574898785425,85.95744680851067L244.331983805668,85.95744680851067L247.20647773279353,85.95744680851067L250.08097165991902,85.95744680851067L252.95546558704453,85.95744680851067L255.82995951417004,85.95744680851067L264.45344129554655,75.21276595744678L264.45344129554655,64.46808510638294L270.2024291497976,64.46808510638294L273.0769230769231,64.46808510638294L275.9514170040486,53.72340425531917L281.70040485829963,53.72340425531917L287.4493927125506,53.72340425531917L293.19838056680163,42.978723404255334L296.07287449392715,42.978723404255334L304.69635627530363,42.978723404255334L313.31983805668017,42.978723404255334L316.1943319838057,42.978723404255334L319.0688259109312,42.978723404255334L327.69230769230774,42.978723404255334L330.5668016194332,42.978723404255334L333.4412955465587,32.2340425531915L339.19028340080973,32.2340425531915L342.06477732793525,32.2340425531915L344.9392712550607,32.2340425531915L347.8137651821863,32.2340425531915L350.68825910931173,32.2340425531915L353.56275303643724,32.2340425531915L362.1862348178138,32.2340425531915L367.93522267206475,32.2340425531915L370.8097165991903,32.2340425531915L373.6842105263158,32.2340425531915L379.4331983805668,32.2340425531915L382.30769230769226,32.2340425531915L385.18218623481783,32.2340425531915L393.8056680161943,32.2340425531915L396.6801619433199,32.2340425531915L405.3036437246963,32.2340425531915L408.1781376518218,32.2340425531915L411.0526315789474,32.2340425531915L413.92712550607285,32.2340425531915L416.80161943319837,32.2340425531915L425.4251012145749,32.2340425531915L428.2995951417004,32.2340425531915L434.0485829959514,21.48936170212761L439.7975708502024,21.48936170212761L445.54655870445345,21.48936170212761L451.2955465587045,21.48936170212761L457.04453441295544,10.744680851063833L459.91902834008096,10.744680851063833L468.5425101214575,10.744680851063833L471.417004048583,10.744680851063833L474.29149797570847,10.744680851063833L477.16599190283404,10.744680851063833L480.04048582995955,10.744680851063833L485.7894736842105,10.744680851063833L491.53846153846155,0L494.41295546558706,0L497.2874493927125,0L503.0364372469636,0L505.91093117408906,0L511.6599190283401,0L514.5344129554655,0L520.2834008097166,0L523.1578947368421,0L526.0323886639676,0L528.9068825910931,0L531.7813765182186,0L543.2793522267207,0L546.1538461538462,0L551.9028340080972,0L563.4008097165993,0L569.1497975708502,0L577.7732793522267,0L583.5222672064777,0L589.2712550607287,0L592.1457489878543,0L606.5182186234817,0L612.2672064777328,0L615.1417004048583,0L620.8906882591093,0L623.7651821862348,0L629.5141700404859,0L635.2631578947369,0L641.0121457489878,0L643.8866396761134,0L646.7611336032389,0L649.6356275303643,0L652.5101214574898,0L658.2591093117409,0L661.1336032388664,0L664.0080971659919,0L669.7570850202429,0L675.506072874494,0L678.3805668016195,0L684.1295546558705,0L687.004048582996,0L689.8785425101214,0L692.7530364372469,0L695.6275303643725,0L698.502024291498,0L701.3765182186235,0L707.1255060728745,0L710,0"/>
         <g class="knime-legend" transform="translate(0,575)">
-            <text x="20" class="knime-legend-label">
+            <text class="knime-legend-label" x="20">
                 P (Attrition=Yes)_random
             </text>
-            <circle fill="#1f77b4" r="5" cx="5" class="knime-legend-symbol"
+            <circle fill="#1f77b4" r="5" class="knime-legend-symbol" cx="5"
                     cy="-5"/>
         </g>
-        <path style="stroke: black; fill: none; stroke-width: 2;" class="line"
+        <path class="line" style="stroke: black; fill: none; stroke-width: 2;"
               d="M0,505L710,0"/>
         <g class="knime-legend" transform="translate(163,575)">
-            <text x="20" class="knime-legend-label">
+            <text class="knime-legend-label" x="20">
                 random
             </text>
-            <circle fill="black" r="5" cx="5" class="knime-legend-symbol"
+            <circle fill="black" r="5" class="knime-legend-symbol" cx="5"
                     cy="-5"/>
         </g>
     </g>
